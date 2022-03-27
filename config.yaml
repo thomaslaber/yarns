@@ -1,4 +1,4 @@
-baseurl: localhost
+baseurl: https://yarns1.netlify.app
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5

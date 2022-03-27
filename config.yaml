@@ -48,8 +48,8 @@ params:
         subtitle: some random stuff
         avatar:
             enabled: true
-            local: true
-            src: img/avatar.jpg
+            local: false
+            src: https://avatars.githubusercontent.com/u/1642710
 
     article:
         math: false

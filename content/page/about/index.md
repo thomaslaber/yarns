@@ -1,12 +1,12 @@
 ---
 title: About
-description: just pretending to pretend to know things
-date: '2019-02-28'
+description: just stealing stuff off the internet
+date: '2022-03-28'
 aliases:
   - about-us
   - contact
-license: CC BY-NC-ND
-lastmod: '2020-10-09'
+# license: CC BY-NC-ND
+lastmod: '2022-09-27'
 menu:
     main: 
         weight: -90
@@ -14,4 +14,4 @@ menu:
             icon: user
 ---
 
-Just stealing stuff off the internet. But don't steal from me, k?
+Don't steal from me, mk?
